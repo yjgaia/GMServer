@@ -151,6 +151,22 @@
             }
         },
         {
+            "Key": "5771d74c-7514-4b69-8af6-99f3f6f2c507",
+            "Value": {
+                "id": "57894fe4-f45d-450b-b459-221fe92677be",
+                "resourcePath": "scripts\\sky_server_on\\sky_server_on.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "6a6be756-2714-40d7-96f7-989adc689e54",
+            "Value": {
+                "id": "d0529403-02e3-4492-93b9-05f7e3ae96f3",
+                "resourcePath": "scripts\\sky_server_off\\sky_server_off.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "75ac291e-7061-4bcb-8e8a-3b3545332d41",
             "Value": {
                 "id": "4153f61c-39e8-41d7-9de7-0d617909e104",
@@ -295,6 +311,14 @@
             }
         },
         {
+            "Key": "e07502e4-c251-4569-ac4b-8acdee8dba0a",
+            "Value": {
+                "id": "f46604e3-fb77-4701-a75c-64b4d5f2575c",
+                "resourcePath": "scripts\\sky_server_send\\sky_server_send.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "e11ddee2-5b54-4435-8686-20816c346b33",
             "Value": {
                 "id": "959b3eab-8a95-4205-bceb-0381689e6685",
@@ -335,7 +359,10 @@
         "8abd5b13-74a7-4a36-b126-e7c32b05199b",
         "b954243f-5b6e-4784-8ac8-b897d7f8af61",
         "d1daf572-af67-48e8-979a-7d7f1fc89ba3",
-        "97106bbf-cb1c-4c6a-9fd6-226c4a24bc48"
+        "97106bbf-cb1c-4c6a-9fd6-226c4a24bc48",
+        "5771d74c-7514-4b69-8af6-99f3f6f2c507",
+        "6a6be756-2714-40d7-96f7-989adc689e54",
+        "e07502e4-c251-4569-ac4b-8acdee8dba0a"
     ],
     "tutorial": ""
 }

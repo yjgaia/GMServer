@@ -11,7 +11,10 @@
         "8abd5b13-74a7-4a36-b126-e7c32b05199b",
         "b954243f-5b6e-4784-8ac8-b897d7f8af61",
         "d1daf572-af67-48e8-979a-7d7f1fc89ba3",
-        "97106bbf-cb1c-4c6a-9fd6-226c4a24bc48"
+        "97106bbf-cb1c-4c6a-9fd6-226c4a24bc48",
+        "5771d74c-7514-4b69-8af6-99f3f6f2c507",
+        "6a6be756-2714-40d7-96f7-989adc689e54",
+        "e07502e4-c251-4569-ac4b-8acdee8dba0a"
     ],
     "filterType": "GMScript",
     "folderName": "sky_server",
